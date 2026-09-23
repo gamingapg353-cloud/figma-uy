@@ -1,0 +1,304 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1272px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #302C42;
+}
+
+nav {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+}
+
+.wrpper {
+    display: flex;
+    gap: 205px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 175px;
+}
+
+.links {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.links {
+    display: flex;
+    gap: 42px;
+}
+
+.imgwrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dnx {
+    color: #fff;
+    background-color: transparent;
+    width: 154px;
+    height: 48px;
+    top: 79px;
+    left: 1009px;
+
+    opacity: 1;
+    border-radius: 40px;
+    border-width: 2px;
+
+}
+
+.dn {
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    width: 155px;
+    height: 48px;
+    top: 79px;
+    left: 1201px;
+    opacity: 1;
+    border-radius: 40px;
+
+}
+
+h1 {
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 46px;
+
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+span {
+    color: #8176AF;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+}
+
+.Op {
+    color: #ffffffb3;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.btn {
+    background-color: #8176AF;
+    width: 214px;
+    height: 48px;
+    top: 589px;
+    left: 84px;
+
+    opacity: 1;
+    border-radius: 40px;
+
+}
+
+.wpaer {
+    display: flex;
+    gap: 276px;
+}
+
+.ri img {
+
+    width: 524px;
+    height: 455px;
+    top: 251px;
+    left: 832px;
+
+    opacity: 1;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 240px;
+}
+
+.lorem {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+
+}
+
+.por {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 36px;
+    color: #ffffffd2;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+
+
+.hr {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    color: #ffffffe7;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    left: 800px;
+    bottom: 70px;
+}
+
+.cer img {
+    width: 524px;
+    height: 557px;
+    top: 1250px;
+    left: 84px;
+    opacity: 1;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 240px;
+
+}
+
+.cer {
+    display: flex;
+    gap: 117px;
+}
+
+.ger {
+    color: #fff;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.lo {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+}
+
+.jigar {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #fff;
+}
+
+.polro {
+    background-color: #8176AF;
+    width: 214px;
+    height: 48px;
+    top: 1691px;
+    left: 726px;
+
+    opacity: 1;
+    border-radius: 40px;
+
+}
+
+.cart {
+    width: 310px;
+    height: 511px;
+
+    opacity: 1;
+    background-color: #211E2E;
+    border-radius: 40px;
+
+}
+
+.cart img {
+    position: relative;
+    left: 50px;
+}
+
+.naklon {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapperpo {
+    display: flex;
+    gap: 14px;
+}
+
+.ulja {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 55px;
+    top: 50px;
+    width: 154px;
+    height: 48px;
+
+
+    opacity: 1;
+    border-radius: 40px;
+
+}
+
+.zor {
+    margin-left: 300px;
+}
+
+.dos input {
+    width: 524px;
+    height: 72px;
+    top: 4362px;
+    left: 191px;
+    opacity: 1;
+    border-radius: 40px;
+    border-width: 2px;
+
+    background-color: transparent;
+    color: #fff;
+}
+
+.dos {
+    display: flex;
+
+}
